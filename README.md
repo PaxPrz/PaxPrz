@@ -1,9 +1,12 @@
 <h1 align="center">Jwojolapa 🙏, Ji Prakash Prajapati </h1>
 <hr>
 
-### Apparently this user does not have any idea about what to share about him. 🤔
+Apparently this user does not have any idea, what to share about him. 🤔
 
-
+- I've good knowledge in Python language.
+- I'm trying to improve my coding patterns.
+- I'm always thinking of security while coding.
+- I'm also interested in DevOps.
 
 <!--
 **PaxPrz/PaxPrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
